@@ -1,7 +1,7 @@
-Trabalho Final do primeiro semestre de Engenharia da Computação (UFES) na disciplina Programação 2.
+Final work of the first semester of Computer Engineering (Federal University of Espírito Santo) in the discipline Programming 2.
 
-O trabalho consiste em uma partida de Batalha Naval jogada pelo terminal, por isso deve ser iniciado recebendo o caminho da pasta principal como parâmetro ("Batalha_Naval/Visiveis/Testes/01" por exemplo). Os tabuleiros podem tanto serem feitos previamente (criando-se os arquivos "tabu_1.txt" e "tabu_2.txt" na pasta principal) quanto gerados aleatoriamente através do parâmetro "-gt". Ao final da partida as estatísticas serão salvas na pasta "saida", previamente presente na pasta principal.
+The work consists of a Naval Battle game played by the terminal. The path of the main folder must be started as a parameter ("Batalha_Naval/Visiveis/Testes/01" for example). The boards can either be made (by creating the files "tabu_1.txt" and "tabu_2.txt" in the main folder) or randomly generated through the parameter "-gt". At the end of the match the statistics will be saved in the output folder ("saida"), previously presented in the main folder.
 
-A pasta "Visiveis" apresenta os testes que deveriam ser feitos ("Testes") e como deveriam ser os seus resultados ("Gabarito").
+The folder displays the tests that were performed ("Testes") and how it presented the results ("Gabarito").
 
-A nota final do trabalho foi 10 (100%).
+The final grade was 10 (100%).
